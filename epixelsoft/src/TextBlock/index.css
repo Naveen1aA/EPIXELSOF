@@ -1,0 +1,16 @@
+/* TextBlock.css */
+.text-block {
+    margin-bottom: 1rem;
+    text-align: start;
+  }
+  
+  .text-block h3 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .text-block p {
+    color: #666;
+    line-height: 2;
+  }
+  
